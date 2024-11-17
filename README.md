@@ -48,4 +48,3 @@ Contributions are welcome! Please submit a pull request with your suggested impr
 Whether you're a **football enthusiast**, a **data analyst**, or a **curious explorer**, this project transforms raw data into **meaningful insights**. It's perfect for uncovering trends, analyzing team performances, and gaining **data-driven perspectives** on the beautiful game. 
 
 This repository is ideal for anyone looking to **explore and visualize** World Cup performance data comprehensively, offering a deep dive into the statistics that define the sport.
-```
