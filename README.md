@@ -40,8 +40,8 @@ Whether you're a football enthusiast, data analyst, or someone exploring the int
 ```
 
 ## 🖼️ Dashboard Files
-The repository includes Power BI dashboard files in both PowerPoint and PDF formats, allowing for easy access to key visuals and insights.
-
+The repository includes Power BI dashboard files in both PowerPoint (`.pptx`) and PDF formats and relevant images, allowing for easy access to key visuals and insights.
+  
 ## 🤝 Contributing
 Contributions are welcome! Please submit a pull request with your suggested improvements or additional features.
 ## 🌍 Final Thoughts
