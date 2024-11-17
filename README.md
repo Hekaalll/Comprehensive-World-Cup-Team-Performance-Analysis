@@ -34,8 +34,7 @@ Whether you're a football enthusiast, data analyst, or someone exploring the int
 ```bash
 |-- data/                  # Raw and processed data files.  
 |-- notebooks/             # Jupyter notebooks for analysis and preprocessing.  
-|-- dashboard/             # Power BI dashboard files.  
-|-- scripts/               # Python scripts for web scraping and analysis.  
+|-- dashboard/             # Power BI dashboard files.   
 |-- README.md              # Project documentation.
 ```
 
