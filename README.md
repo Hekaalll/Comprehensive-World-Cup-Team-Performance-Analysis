@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🚀 Description
-This project delivers a **comprehensive analysis** of FIFA World Cup data, uncovering the **best-performing teams** throughout the tournament's history. By integrating advanced data analytics tools and techniques, it transforms raw data into actionable insights through **interactive dashboards** and rigorous data processing.
+This project delivers a **comprehensive analysis** of World Cup data, uncovering the **best-performing teams** throughout the tournament's history. By integrating advanced data analytics tools and techniques, it transforms raw data into actionable insights through **interactive dashboards** and rigorous data processing.
 
 ## 🌟 Key Features
 - **Data Collection:** Automated web scraping to extract match and team statistics from reliable sources.
