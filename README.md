@@ -42,6 +42,6 @@ Whether you're a football enthusiast, data analyst, or someone exploring the int
 The repository includes Power BI dashboard files in both PowerPoint (`.pptx`) and PDF formats and relevant images, allowing for easy access to key visuals and insights.
 
 ## 🌍 Final Thoughts
-Whether you're a **football enthusiast**, a **data analyst**, or a **curious explorer**, this project transforms raw data into **meaningful insights**. It's perfect for uncovering trends, analyzing team performances, and gaining **data-driven perspectives** on the beautiful game. 
+Whether you're a **World Cup Sports enthusiast**, a **data analyst**, or a **curious explorer**, this project transforms raw data into **meaningful insights**. It's perfect for uncovering trends, analyzing team performances, and gaining **data-driven perspectives** on the beautiful game. 
 
 This repository is ideal for anyone looking to **explore and visualize** World Cup performance data comprehensively, offering a deep dive into the statistics that define the sport.
